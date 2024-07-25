@@ -1,6 +1,6 @@
 ## Whats up 😎
 
-<!--
+
 My name is Nodir Xaydarov. I am a freelance frontend developer living near Tashkent, Uzbekistan. 🥐
 
 
